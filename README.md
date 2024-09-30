@@ -1,4 +1,4 @@
 # Biblical Data Repository
 Welcome to the Biblical Data Repository! This repository serves as a centralized hub for storing and sharing JSON files containing various biblical data. Here, you will find structured information about verses, chapters, books, and key themes from the Bible, designed for easy access and integration into applications, research, and data analysis.
-Features
+## Features
 Comprehensive JSON Files: Each file contains detailed data about specific aspects of biblical texts, including: Book names and their respective chapters Verse numbers and text Thematic tags and keywords Easy Integration: The JSON format allows for seamless integration with various programming languages and platforms, making it easy to utilize this data in your projects. Community Contributions: We welcome contributions from the community. Feel free to add new data, correct errors, or suggest improvements!
